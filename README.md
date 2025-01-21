@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ThonyMarvkDEV and I'm a FullStack Sowftware Developer from Perú.</h2>
+<h2 align="left">Hi 👋! My name is ThonyMarckDEV and I'm a FullStack Sowftware Developer from Perú.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
