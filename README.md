@@ -51,6 +51,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Thonymarckdev/Thonymarckdev/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Typing code animation" height="300" />
+</div>
 
 ###
