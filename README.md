@@ -1,4 +1,4 @@
-# 👋 Anthony Marck Mendoza Sánchez
+# 👋 Hi, I'm Anthony Marck Mendoza Sánchez
 
 ## 💻 Full Stack Software Developer | 🌍 Perú
 
