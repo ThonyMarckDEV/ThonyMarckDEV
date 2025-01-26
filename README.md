@@ -45,11 +45,17 @@ Passionate Full Stack Developer with expertise in creating robust web applicatio
 - Microservices Architecture
 - Performance Optimization Techniques
 
-### 📈 Contribution Graph
+### 💼 Professional Experience
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thonymarckdev&theme=radical&hide_border=true" alt="Contribution Streak"/>
-</div>
+#### Backend Developer Intern | VAFTEC PERU SAC
+**October 2024 - December 2024**
+- Completed 3-month internship as a Backend Developer
+- Specialized in Laravel development
+- [Internship Certificate](https://drive.google.com/file/d/1oGeW9WmzAwB9rWk_GJhF9HN50t0MvfUK/view?usp=sharing)
+
+#### Current Status
+- Freelance Developer
+- Open to new opportunities and challenging projects
 
 ### 📫 Let's Connect
 
