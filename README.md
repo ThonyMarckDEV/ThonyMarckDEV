@@ -1,6 +1,6 @@
 # 👋 Anthony Marck Mendoza Sánchez
 
-## 💻 Full Stack Software Developer | 🌍 Lima, Perú
+## 💻 Full Stack Software Developer | 🌍 Perú
 
 <div align="center">
   <a href="https://linkedin.com/in/anthony-marck-mendoza-sanchez-a7a1aa311">
