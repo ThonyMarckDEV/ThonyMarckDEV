@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy ThonyMarckDEV</h1>
+<h1 align="center">Hi, I'm ThonyMarckDEV</h1>
 <h3 align="center">FullStack Software Developer | Perú</h3>
 
 ---
