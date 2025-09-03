@@ -53,6 +53,12 @@ Passionate Full Stack Developer with expertise in creating robust web applicatio
 - Specialized in Laravel development
 - [Internship Certificate](https://drive.google.com/file/d/1oGeW9WmzAwB9rWk_GJhF9HN50t0MvfUK/view?usp=sharing)
 
+#### FullStack Developer Intern | Soluciones en Ingenieria T & J
+**February 2025 - July 2025**
+- Completed 6-month internship as a FullStack Developer
+- Specialized in Laravel,Vue.js development
+- [Internship Certificate](https://drive.google.com/file/d/1E88wUvB7AxldGyYjsu2xV_9d7TUTYmmE/view?usp=drive_link)
+  
 #### Current Status
 - Freelance Developer
 - Open to new opportunities and challenging projects
