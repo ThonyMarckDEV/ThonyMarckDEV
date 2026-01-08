@@ -18,14 +18,6 @@
 
 Passionate Full Stack Developer with expertise in creating robust web applications using modern technologies. Specialized in building scalable solutions that bridge innovative design with powerful functionality.
 
-### 🐍 My Contribution Journey
-
-<div align="center">
-  <a href="https://holopin.io/@thonymarckdev">
-    <img src="https://holopin.me/thonymarckdev" alt="Anthonys Holopin badges" />
-  </a>
-</div>
-
 ### 🛠️ Technologies & Tools
 
 <div align="center">
