@@ -18,12 +18,10 @@
 
 Passionate Full Stack Developer with expertise in creating robust web applications using modern technologies. Specialized in building scalable solutions that bridge innovative design with powerful functionality.
 
-### 📊 GitHub Stats
+### 🐍 My Contribution Journey
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ThonyMarckDEV&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
+  <img src="https://github.com/Thonymarckdev/Thonymarckdev/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ### 🛠️ Technologies & Tools
