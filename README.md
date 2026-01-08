@@ -21,7 +21,7 @@ Passionate Full Stack Developer with expertise in creating robust web applicatio
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thonymarckdev&theme=radical&hide_border=true" alt="Thonymarckdev's Streak" />
+  <img src="https://metrics.lecoq.io/Thonymarckdev?template=classic&base=header,activity,community,repositories,metadata&isocalendar=false&languages=1&config.timezone=America%2FLima" alt="Metrics" />
 </div>
 
 ### 🛠️ Technologies & Tools
