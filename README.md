@@ -18,6 +18,14 @@
 
 Passionate Full Stack Developer with expertise in creating robust web applications using modern technologies. Specialized in building scalable solutions that bridge innovative design with powerful functionality.
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-thonymarckdev.vercel.app/api?username=Thonymarckdev&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em" alt="Anthony's GitHub Stats" />
+  
+  <img src="https://github-readme-stats-thonymarckdev.vercel.app/api/top-langs/?username=Thonymarckdev&layout=compact&theme=radical&hide_border=true" height="180em" alt="Most Used Languages" />
+</div>
+
 ### 🛠️ Technologies & Tools
 
 <div align="center">
