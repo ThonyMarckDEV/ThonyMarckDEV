@@ -21,7 +21,9 @@ Passionate Full Stack Developer with expertise in creating robust web applicatio
 ### 🐍 My Contribution Journey
 
 <div align="center">
-  <img src="https://github.com/Thonymarckdev/Thonymarckdev/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <a href="https://holopin.io/@thonymarckdev">
+    <img src="https://holopin.me/thonymarckdev" alt="Anthonys Holopin badges" />
+  </a>
 </div>
 
 ### 🛠️ Technologies & Tools
