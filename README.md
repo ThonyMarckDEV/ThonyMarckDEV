@@ -21,8 +21,7 @@ Passionate Full Stack Developer with expertise in creating robust web applicatio
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thonymarckdev&show_icons=true&theme=radical&hide_border=true" height="180em" alt="Anthony's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thonymarckdev&layout=compact&theme=radical&hide_border=true" height="180em" alt="Most Used Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thonymarckdev&theme=radical&hide_border=true" alt="Thonymarckdev's Streak" />
 </div>
 
 ### 🛠️ Technologies & Tools
