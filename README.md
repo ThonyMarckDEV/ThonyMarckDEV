@@ -22,7 +22,7 @@ Passionate Full Stack Developer with expertise in creating robust web applicatio
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thonymarckdev&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ThonyMarckDEV&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </div>
 
