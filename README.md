@@ -21,7 +21,9 @@ Passionate Full Stack Developer with expertise in creating robust web applicatio
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Thonymarckdev?template=classic&base=header,activity,community,repositories,metadata&isocalendar=false&languages=1&config.timezone=America%2FLima" alt="Metrics" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Thonymarckdev&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
 </div>
 
 ### 🛠️ Technologies & Tools
